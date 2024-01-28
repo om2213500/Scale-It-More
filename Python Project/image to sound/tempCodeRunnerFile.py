@@ -1,0 +1,1 @@
+ pytesseract.image_to_string(img_obj_1)
